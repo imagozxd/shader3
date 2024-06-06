@@ -55,14 +55,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Glossines: 12.78
+    - _Glossines: 10.9
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _rimAmount: 0.832
-    - _rimTreshold: 0.067
+    - _rimAmount: 0.51
+    - _rimTreshold: 0.39
     m_Colors:
     - _AmbientColor: {r: 0.4158884, g: 0.8207547, b: 0.05032932, a: 0}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
-    - _SpecularColor: {r: 16.528547, g: 4.082043, b: 0, a: 0}
-    - _rimcolor: {r: 10.680627, g: 0, b: 7.9023523, a: 0}
+    - _MainColor: {r: 0.9328458, g: 0.9716981, b: 0.9212798, a: 0}
+    - _SpecularColor: {r: 16.52855, g: 0, b: 12.111538, a: 0}
+    - _rimcolor: {r: 6.3663807, g: 9.534882, b: 10.627344, a: 0}
   m_BuildTextureStacks: []
